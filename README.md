@@ -82,3 +82,6 @@ app/src/main/java/com/example/expo2019/alzheimerapp/
 ## License
 
 See [LICENSE.md](LICENSE.md)
+
+## AUTHOR 
+VISHRUTHA VC
